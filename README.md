@@ -158,6 +158,6 @@ Interested in collaborating on **cloud automation, Kubernetes platforms, CI/CD, 
 **Build thoughtfully · Automate consistently · Keep improving**
 
 <img src="https://komarev.com/ghpvc/?username=akhilindugula&amp;label=Profile+views&amp;color=0ea5e9&amp;style=flat-square" alt="Profile view counter" />
-<img src="https://img.shields.io/badge/Last_updated-18_October_2026-334155?style=flat-square" alt="Last updated: 18 October 2026" />
+<img src="https://img.shields.io/badge/Last_updated-18_October_2026-334155?style=flat-square" alt="Last updated: 01 June 2026" />
 
 </div>
