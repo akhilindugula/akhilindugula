@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Akhil Indugula — DevOps, Cloud and AI Engineering</title><desc id="desc">Midnight navy engineering console with cyan and violet orbital lines.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070C19"/><stop offset="1" stop-color="#15203C"/></linearGradient><linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset=".5" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="440" rx="22" fill="url(#bg)"/><rect width="1200" height="440" rx="22" fill="url(#grid)"/>
+<path d="M28 1H1172" stroke="url(#accent)" stroke-width="3"/>
+<g fill="none" stroke-width="1.5"><circle cx="1025" cy="220" r="142" stroke="#38BDF8" opacity=".25"/><circle cx="1025" cy="220" r="105" stroke="#A78BFA" opacity=".4"/><ellipse cx="1025" cy="220" rx="165" ry="57" transform="rotate(-35 1025 220)" stroke="#5EEAD4" opacity=".45"/><path d="M900 220h250M1025 90v260" stroke="#38BDF8" opacity=".16"/></g>
+<g fill="#5EEAD4"><circle cx="934" cy="112" r="5"/><circle cx="1130" cy="220" r="4"/></g>
+<rect x="967" y="181" width="116" height="78" rx="14" fill="#0B1427" stroke="#38BDF8"/>
+<text x="1025" y="231" text-anchor="middle" fill="#5EEAD4" font-family="monospace" font-size="32">&lt;/&gt;</text>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="65" fill="#5EEAD4" font-family="monospace" font-size="14" letter-spacing="3">AK / ENGINEERING SYSTEMS</text>
+<text x="56" y="160" fill="#F8FAFC" font-size="60" font-weight="700" letter-spacing="-2">Akhil Indugula</text>
+<text x="59" y="204" fill="#BAE6FD" font-size="22">DevOps &amp; Cloud Engineer</text>
+<text x="59" y="238" fill="#A78BFA" font-size="19">AI &amp; Backend Engineering</text>
+<rect x="59" y="270" width="70" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="59" y="312" fill="#CBD5E1" font-size="18">Reliable infrastructure. Repeatable delivery. Practical AI.</text>
+<text x="59" y="386" fill="#64748B" font-family="monospace" font-size="14">AWS + AZURE  /  KUBERNETES  /  TERRAFORM  /  PYTHON</text>
+</g></svg>
